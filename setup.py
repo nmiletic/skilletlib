@@ -20,7 +20,7 @@ setuptools.setup(
         "oyaml",
         "docker",
         "pan-python",
-        "jinja2==3.0.1",
+        "jinja2",
         "pyyaml",
         "xmldiff",
         "xmltodict",
